@@ -2,5 +2,6 @@ SimpleGit Ruby Library
 ======================
 
 This library calls git commands and returns the output.
+With some improvements. 
 
-Author : Scott Chacon
+Author : Scott Chacon, Vasiliy Pedak
